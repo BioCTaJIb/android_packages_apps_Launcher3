@@ -19,6 +19,32 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="trust_apps_info_hidden">Скрыть приложения из меню</string>
+    <string name="trust_apps_info_protected">Защищенные приложения требуют аутентификации для открытия</string>
+    <string name="trust_apps_manager_name">Скрыть и защитить приложения</string>
+    <string name="dev_options_desc">Включить некоторые скрытые функции</string>
+    <string name="dev_options_title">Параметры разработчика</string>
+    <string name="drawer_show_labels">Показать названия значков в меню приложений</string>
+    <string name="show_labels_landscape">Показать названия значков на рабочем столе в ландшафтном режиме</string>
+    <string name="desktop_show_labels">Показать названия значков на рабочем столе</string>
+    <string name="settings_edit_allow_summary_off">Значки и виджеты нельзя добавлять, удалять и перемещать на главном экране</string>
+    <string name="settings_edit_allow_summary_on">Значки и виджеты можно добавлять, удалять и перемещать на главном экране</string>
+    <string name="settings_edit_allow_title">Разрешить редактирование</string>
+    <string name="quickspace_now_playing_summary">"Показывает песню, которая сейчас играет."</string>
+    <string name="quickspace_now_playing_title">Показывать что сейчас играет</string>
+    <string name="msg_minus_one_on_left">Когда вы проведите пальцем вправо с главного экрана</string>
+    <string name="msg_minus_one_on_right">Когда вы проведите пальцем влево с главного экрана</string>
+    <string name="title_show_google_app">Показать Google приложения</string>
+    <string name="misc_category_summary">Различные настройки</string>
+    <string name="misc_category_title">Разное</string>
+    <string name="app_drawer_category_summary">Настройте свои приложения</string>
+    <string name="app_drawer_category_title">Приложения</string>
+    <string name="home_category_summary">Установить панель Google now и многое другое</string>
+    <string name="home_category_title">Домашний экран</string>
+    <string name="icons_category_summary">Установить форму значка и многое другое</string>
+    <string name="icons_category_title">Иконки</string>
+    <string name="settings_title">Настройки</string>
+    <string name="recents_kill_app">Закрыть прил.</string>
     <string name="app_name" msgid="649227358658669779">"Launcher3"</string>
     <string name="work_folder_name" msgid="3753320833950115786">"Работа"</string>
     <string name="activity_not_found" msgid="8071924732094499514">"Приложение удалено"</string>
